@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=EndeavourOS Updater
+Comment=System-, AUR- und Flatpak-Updates
+Exec=/usr/bin/endeavouros-updater
+Icon=endeavouros-updater
+Terminal=false
+Type=Application
+Categories=System;
